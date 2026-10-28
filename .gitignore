@@ -1,0 +1,7 @@
+# 忽略运行生成的评估报告与日志
+trivy-audit-reports/
+*.log
+*.err
+*.out
+*.tmp
+.cache/
